@@ -1,0 +1,147 @@
+body {
+    background-color: #413F42;
+    margin-inline: max(0px, (100% - 240px) / 2);
+    font: 90%/1.5 sans-serif;
+}
+
+.sticky-card {
+    top: 0;
+    position: sticky;
+    background-color: #293462;
+    box-shadow: 0 -0.4rem 1rem rgba(0, 0, 0, 0.20);
+    border: 7px;
+    padding: 1.6rem;
+}
+
+.card-title {
+    color: #1CD6CE;
+}
+
+.card-content {
+    color: #FEDB39;
+}
+
+.sticky-card:nth-child(1) {
+    top: 1rem;
+    rotate: 1deg;
+}
+
+.sticky-card:nth-child(2) {
+    top: 2rem;
+    rotate: 2deg;
+}
+
+.sticky-card:nth-child(3) {
+    top: 3rem;
+    rotate: 3deg;
+}
+
+.sticky-card:nth-child(4) {
+    top: 4rem;
+    rotate: 4deg;
+}
+
+.sticky-card:nth-child(5) {
+    top: 5rem;
+    rotate: 5deg;
+}
+
+.sticky-card:nth-child(6) {
+    top: 6rem;
+    rotate: 6deg;
+}
+
+.sticky-card:nth-child(7) {
+    top: 7rem;
+    rotate: 7deg;
+}
+
+.sticky-card:nth-child(8) {
+    top: 8rem;
+    rotate: 8deg;
+}
+
+.sticky-card:nth-child(9) {
+    top: 9rem;
+    rotate: 9deg;
+}
+
+.sticky-card:nth-child(10) {
+    top: 10rem;
+    rotate: 10deg;
+}
+
+.sticky-card:nth-child(11) {
+    top: 11rem;
+    rotate: 11deg;
+}
+
+.sticky-card:nth-child(12) {
+    top: 12rem;
+    rotate: 12deg;
+}
+
+.sticky-card:nth-child(13) {
+    top: 13rem;
+    rotate: 13deg;
+}
+
+.sticky-card:nth-child(14) {
+    top: 14rem;
+    rotate: 14deg;
+}
+
+.sticky-card:nth-child(15) {
+    top: 15rem;
+    rotate: 15deg;
+}
+
+.sticky-card:nth-child(16) {
+    top: 16rem;
+    rotate: 16deg;
+}
+
+.sticky-card:nth-child(17) {
+    top: 17rem;
+    rotate: 17deg;
+}
+
+.sticky-card:nth-child(18) {
+    top: 18rem;
+    rotate: 18deg;
+}
+
+.sticky-card:nth-child(19) {
+    top: 19rem;
+    rotate: 19deg;
+}
+
+.sticky-card:nth-child(20) {
+    top: 20rem;
+    rotate: 20deg;
+}
+
+.sticky-card:nth-child(21) {
+    top: 21rem;
+    rotate: 21deg;
+}
+
+.sticky-card:nth-child(22) {
+    top: 22rem;
+    rotate: 22deg;
+}
+
+.sticky-card:nth-child(23) {
+    top: 23rem;
+    rotate: 23deg;
+}
+
+.sticky-card:nth-child(24) {
+    top: 24rem;
+    rotate: 24deg;
+}
+
+.sticky-card:nth-child(25) {
+    top: 25rem;
+    rotate: 25deg;
+}
